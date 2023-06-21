@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Risevilla</title>
+    <title>Risevilla sumit</title>
     <!-- Stylesheets -->
     <link href="<?php echo base_url();?>assets/css/bootstrap.css" rel="stylesheet">
     <link href="<?php echo base_url();?>assets/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
